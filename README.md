@@ -2,4 +2,4 @@
 trial
 
 Hello Hello こんにちは
-This is a test これはテストです
+This is a test これはテストです　はい
